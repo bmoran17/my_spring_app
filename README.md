@@ -14,5 +14,7 @@
   - Spring Boot Maven Plugin:`mvn spring-boot:run`
 - Property Demo
   - Defined custom properties in file `application.properties`
+  - Set context path to "/mycoolapp"
+  - Changed embedded server port to 7070 
   - Injected properties into Spring App 
-  - Exposed new endpoint for "/teaminfo" to display those properties
+  - Exposed new endpoint for "/teaminfo" to display properties
