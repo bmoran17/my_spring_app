@@ -12,4 +12,7 @@
   - Tested running Spring App from command line 2 ways:
   - Packaging App & running JAR file:`mvn package` & `java -jar` 
   - Spring Boot Maven Plugin:`mvn spring-boot:run`
-
+- Property Demo
+  - Defined custom properties in file `application.properties`
+  - Injected properties into Spring App 
+  - Exposed new endpoint for "/teaminfo" to display those properties
