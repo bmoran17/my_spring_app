@@ -33,3 +33,9 @@
 - Setter Injection
   - Deleted constructor for dependency injection
   - Created a setter method annotated with `@Autowired`
+- Qualifiers
+  - Created multiple implementations of `Coach` interface
+  - Used `Qualifier` annotation to specify class name of interface to implement
+- Primary
+  - Still have multiple implementations of `Coach` interface
+  - Added `Primary` annotation to implementation to use
