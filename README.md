@@ -40,5 +40,8 @@
   - Still have multiple implementations of `Coach` interface
   - Added `Primary` annotation to implementation to use
 - Lazy Initialization
-  - Added `@Lazy` annotation to `TrackCoach` class so its not injected & created == not initialized
-  - 
+  - Added `@Lazy` annotation to `TrackCoach` 
+    - bean is not injected & created == not initialize 
+    - bean created until needed
+  - Set up lazy inititalization at a global scale
+    - all beans are lazy => no beans created until needed 
