@@ -45,3 +45,5 @@
     - bean created until needed
   - Set up lazy inititalization at a global scale
     - all beans are lazy => no beans created until needed 
+- Bean Scope
+  - Implemented two dependency injections that reference same bean (singleton bean scope)
