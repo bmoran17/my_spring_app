@@ -72,3 +72,5 @@
     - Mapped class fields to database columns
   - Set up a data access object to interact with database
     - Able to save multiple Student objects into database
+    - Able to read student object from database
+    
