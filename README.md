@@ -68,3 +68,5 @@
   - Setting up Spring Boot project with Hibernate/JPA
     - Set up command line runner to execute code right after Spring Boot starts
     - Added JDBC database connection information
+    - Map `Student` class to database table
+    - Map class fields to database columns
