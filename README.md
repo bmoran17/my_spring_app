@@ -71,8 +71,9 @@
     - Mapped `Student` class to database table
     - Mapped class fields to database columns
   - Set up a data access object to interact with database
-    - Implemented saving multiple Student objects into database
-    - Implemented reading student object from database
-    - Implemented querying student objects from database
+  - Implement CRUD Apps
+    - Create objecs => saving multiple Student objects into database
+    - Read objects => reading/querying student object from database
+    - Update objects => updating student objecs from database
 
     
