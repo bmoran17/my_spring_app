@@ -75,5 +75,6 @@
     - Create objecs => saving multiple Student objects into database
     - Read objects => reading/querying student object from database
     - Update objects => updating student objecs from database
+    - Delete objects => deleting student objects from database
 
     
