@@ -86,10 +86,14 @@
   - Build a spring boot application that uses Timeleaf templates
   - Created basic template for "/hello" that renders time on server
   - Added CSS to Thymeleaf template
-- Updated Project to include Hello World Form
-  - Created form to prompt user for name
+
+**Updated Project to include Form**
+- Created form to prompt user for name
   - Displayed confirmation page with name provided
   - Created controller class with 2 request mappings:
     - Controller method to show initial HTML form
     - Controller method to process HTML form
   - Added Thymeleaf templates corresponding to each method
+- Added Data to Spring MVC Model
+  - Read form data in controller & modify to all caps & store in model
+  - Access model data in template view
