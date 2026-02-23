@@ -85,3 +85,4 @@
 - Thymeleaf Demo - Hello World
   - Build a spring boot application that uses Timeleaf templates
   - Created basic template for "/hello" that renders time on server
+  - Added CSS to Thymeleaf template
