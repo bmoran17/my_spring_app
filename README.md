@@ -101,3 +101,6 @@
 - Used `@RequestParam` to read HTML form data
   - `@RequestParam` automatically reads form data from request parameters & binds the value directly to a method parameter
   - Eliminates the need for `HttpServletRequest`
+- Used `@GetMapping` and `@PostMapping` to handle only `GET` or `POST` form submissions
+  - Used `GET` to send data in URL
+  - Used `POST` to send data in request body 
